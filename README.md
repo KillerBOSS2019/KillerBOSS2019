@@ -4,7 +4,7 @@
 <br>
 
 - I am currently learning **Java**
-- I meanly create and help other on <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][tp_website]** in Python.
+- I meanly create and help other on <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][[tp_website](https://touch-portal.com/)]** in Python.
 - How to reach me **Damienweifen@gmail.com**
 
 ---
