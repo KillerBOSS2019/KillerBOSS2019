@@ -1,4 +1,13 @@
+<h1 align="center">Hi👋, I'm Damien</h1>
+<h3 align="center">Developer</h3>
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css"> -->
+<br>
 
+- I am currently learning **Java**
+- I meanly create and help other on <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][tp_website]** in Python.
+- How to reach me **Damienweifen@gmail.com**
+
+---
 <h3>Tools and Languages:</h3>
 <div align="center" id="toolsAndLanguages">
     <a href="https://code.visualstudio.com/"><img height="40" with="40" src="https://secrethub.io/img/vs-code.svg"></a>
