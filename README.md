@@ -24,6 +24,7 @@
 ---
 <details>
     <summary> ⚡GitHub Activity </summary>
+    
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#23](https://github.com/KillerBOSS2019/TouchPortal-API/issues/23) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
 2. 🗣 Commented on [#23](https://github.com/KillerBOSS2019/TouchPortal-API/issues/23) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
