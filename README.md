@@ -18,9 +18,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
     <a href="https://www.jetbrains.com/idea/"><img height="40" with="40" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/></a>
     <a href="https://trello.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/></a>
-    <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
-    
-    
+    <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>  
 </div>
 
 
@@ -30,3 +28,11 @@
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KillerBOSS2019&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
+
+<details>
+    <summary> ⚡GitHub Activity </summary>
+    
+<!--START_SECTION:activity-->
+</details>
+
+
