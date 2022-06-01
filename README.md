@@ -18,6 +18,7 @@
     <a href="https://www.jetbrains.com/idea/"><img height="40" with="40" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/></a>
     <a href="https://trello.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/></a>
     <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>  
+    <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/></a>  
 </div>
 
 
