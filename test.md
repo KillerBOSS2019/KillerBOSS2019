@@ -7,9 +7,7 @@
 ![License](https://img.shields.io/github/license/KillerBOSS2019/TP-YTDM-Plugin)
 - [Touch Portal Plugin Example](#Touch-Portal-Plugin-Example)
   - [Description](#description)
-    
-  - [Settings Overview](#Settings-Overview)
-
+      - [Settings Overview](#Settings-Overview)
   - [Features](#Features)
     - [Actions](#actions)
     - [States](#states)
