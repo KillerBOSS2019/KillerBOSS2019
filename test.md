@@ -11,6 +11,7 @@
   - [Features](#Features)
     - [Actions](#actions)
     - [States](#states)
+  - [Installation Guide](#installation)
   - [Bugs and Support](#Bugs-and-Suggestion)
   - [License](#license)
   
@@ -58,7 +59,7 @@ Example setting doc
 </table>
 
 ### States
- **Base Id: **tp.plugin.example.python.
+ <b>Base Id:</b> tp.plugin.example.python.
 
 | Id | Name | Description | DefaultValue |
 | --- | --- | --- | --- |
@@ -67,6 +68,11 @@ Example setting doc
 
 
 
+# Installation
+1. Download .tpp file
+2. in TouchPortal gui click gear icon and select 'Import Plugin'
+3. Select the .tpp file
+4. Click 'Import'
 # Bugs and Suggestion
 Open an [issue](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues) or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
 
