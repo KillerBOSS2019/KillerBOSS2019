@@ -28,4 +28,20 @@ This is an example plugin for Touch Portal. It demonstrates the basics of how to
 <b>#818181FF</b></li>
 </ul></td>
 <td align=center>No</td>
+<tr valign='top'><td>Inc/DecrVol</td><td>This action increases or decreases the process volume of the selected process.</td><td>[2][1]Volume to[3]</td><td><ul start=0>
+<li>[AppChoice] Type: choice &nbsp; 
+&lt;empty&gt;</li>
+<li>[OptionList] Type: choice &nbsp; 
+<b>Increase</b> ['Increase', 'Decrease', 'Set']</li>
+<li>[Volume] Type: number &nbsp; 
+<b>10</b> (0-100)</li>
+</ul></td>
+<td align=center>No</td>
+<tr valign='top'><td>AppMute</td><td>This action mutes or unmutes the selected process.</td><td>[2] Program:[1]</td><td><ul start=0>
+<li>[appChoice] Type: choice &nbsp; 
+&lt;empty&gt;</li>
+<li>[OptionList] Type: choice &nbsp; 
+<b>Toggle</b> ['Mute', 'Unmute', 'Toggle']</li>
+</ul></td>
+<td align=center>No</td>
 </table>
