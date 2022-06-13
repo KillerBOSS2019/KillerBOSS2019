@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/github/license/KillerBOSS2019/TP-YTDM-Plugin)
 - [Touch Portal Plugin Example](#Touch-Portal-Plugin-Example)
   - [Description](#description)
-      - [Settings Overview](#Settings-Overview)
+    - [Settings Overview](#Settings-Overview)
   - [Features](#Features)
     - [Actions](#actions)
     - [States](#states)
@@ -18,6 +18,15 @@
 # Description
 This is an example plugin for Touch Portal. It demonstrates the basics of how to create a plugin, and how to communicate with Touch Portal.
     
+## Settings Overview
+### example
+| Read-only | Type | Default Value |
+| --- | --- | --- |
+| False | text | Example value |
+
+Example setting doc
+
+
 # Features
 
 ## Actions
@@ -49,7 +58,7 @@ This is an example plugin for Touch Portal. It demonstrates the basics of how to
 </table>
 
 # Bugs and Suggestion
-Open an [issue](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues) or on offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
+Open an [issue](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues) or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
 
 
 # License
