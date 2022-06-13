@@ -57,6 +57,16 @@ Example setting doc
 <td align=center>No</td>
 </table>
 
+### States
+ **Base Id: **tp.plugin.example.python.
+
+| Id | Name | Description | DefaultValue |
+| --- | --- | --- | --- |
+| .state.text | text | Example State Text | Hello World! |
+| .state.color | color | Example State Color | #818181FF |
+
+
+
 # Bugs and Suggestion
 Open an [issue](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues) or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
 
