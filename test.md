@@ -22,13 +22,12 @@ This is an example plugin for Touch Portal. It demonstrates the basics of how to
     
 ## Actions
 <table>
-<tr valign='buttom><th>Action Name</th><th>Description</th><th>Format</th><th nowrap>Data<br/><div align=left><sub>choices/default (in bold)</th><th>On<br/>Hold</sub></div></th></tr>
+<tr valign='buttom'><th>Action Name</th><th>Description</th><th>Format</th><th nowrap>Data<br/><div align=left><sub>choices/default (in bold)</th><th>On<br/>Hold</sub></div></th></tr>
 <tr valign='top'><td>example</td><td>This action sets the example setting to a given value, and also sets the color of the example setting to a given value.</td><td>Set Example State Text to $[text] and Color to $[2]</td><td><ul start=0>
 <li>[text] Type: text &nbsp; 
 <b>Hello World!</b></li>
-<td align=center>No</td>
 <li>[color] Type: color &nbsp; 
 <b>#818181FF</b></li>
-<td align=center>No</td>
 </ul></td>
+<td align=center>No</td>
 </table>
