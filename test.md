@@ -18,6 +18,8 @@
 # Description
 This is an example plugin for Touch Portal. It demonstrates the basics of how to create a plugin, and how to communicate with Touch Portal.
     
+# Features
+
 ## Actions
 <table>
 <tr valign='buttom'><th>Action Name</th><th>Description</th><th>Format</th><th nowrap>Data<br/><div align=left><sub>choices/default (in bold)</th><th>On<br/>Hold</sub></div></th></tr>
@@ -45,3 +47,11 @@ This is an example plugin for Touch Portal. It demonstrates the basics of how to
 </ul></td>
 <td align=center>No</td>
 </table>
+
+# Bugs and Suggestion
+Open an [issue](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues) or on offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
+
+
+# License
+This plugin is licensed under the [GPL 3.0 License] - see the [LICENSE](LICENSE) file for more information.
+
