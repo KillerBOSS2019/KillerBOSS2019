@@ -27,12 +27,6 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/KillerBOSS2019/TouchPortal-API/issues/24) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-2. 💪 Opened PR [#24](https://github.com/KillerBOSS2019/TouchPortal-API/pull/24) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-3. ❗️ Closed issue [#11](https://github.com/KillerBOSS2019/WinTools/issues/11) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-4. 🗣 Commented on [#11](https://github.com/KillerBOSS2019/WinTools/issues/11) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-5. 🗣 Commented on [#11](https://github.com/KillerBOSS2019/WinTools/issues/11) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-<!--END_SECTION:activity-->
 
 </details>
 
