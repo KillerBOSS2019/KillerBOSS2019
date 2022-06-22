@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
-2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
-4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
-5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
+1. ✌️ Released [Plugin now will be written in Java. ](https://github.com/KillerBOSS2019/TP-GoveePlugin/releases/tag/v1.5.0) in [KillerBOSS2019/TP-GoveePlugin](https://github.com/KillerBOSS2019/TP-GoveePlugin)
+2. ✔️ Closed issue [#3](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/issues/3) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+4. ✌️ Released [Version 2.0.0 Completely rewritten the plugin. ](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/releases/tag/2.0.0) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
