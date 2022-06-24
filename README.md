@@ -27,12 +27,6 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#152938](https://github.com/microsoft/vscode/issues/152938#issuecomment-1164087782) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-3. ✌️ Released [Plugin now will be written in Java. ](https://github.com/KillerBOSS2019/TP-GoveePlugin/releases/tag/v1.5.0) in [KillerBOSS2019/TP-GoveePlugin](https://github.com/KillerBOSS2019/TP-GoveePlugin)
-4. ✔️ Closed issue [#3](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/issues/3) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
-5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-<!--RECENT_ACTIVITY:end-->
 
 </details>
 
