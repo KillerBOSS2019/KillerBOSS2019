@@ -27,12 +27,6 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
-3. 💬 Commented on [#152938](https://github.com/microsoft/vscode/issues/152938#issuecomment-1164087782) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-5. ✌️ Released [Plugin now will be written in Java. ](https://github.com/KillerBOSS2019/TP-GoveePlugin/releases/tag/v1.5.0) in [KillerBOSS2019/TP-GoveePlugin](https://github.com/KillerBOSS2019/TP-GoveePlugin)
-<!--RECENT_ACTIVITY:end-->
 
 </details>
 
