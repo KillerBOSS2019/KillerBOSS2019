@@ -29,9 +29,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
 2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-3. 💬 Commented on [#24](https://github.com/KillerBOSS2019/TouchPortal-API/pull/24#discussion_r906646571) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
-5. ⭐ Starred [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+4. 💬 Commented on [#24](https://github.com/KillerBOSS2019/TouchPortal-API/pull/24#discussion_r906646571) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
