@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#10](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/10#issuecomment-1200327120) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-2. 💬 Commented on [#4](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/issues/4#issuecomment-1193678658) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
-3. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1192962275) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
-4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-5. ✌️ Released [bunch fixes and new features. V1.7.7](https://github.com/KillerBOSS2019/TouchPortal-API/releases/tag/1.7.7) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+1. 💬 Commented on [#10](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/10#issuecomment-1200336675) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+2. 💬 Commented on [#10](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/10#issuecomment-1200327120) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+3. 💬 Commented on [#4](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/issues/4#issuecomment-1193678658) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+4. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1192962275) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
