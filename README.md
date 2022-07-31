@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5](https://github.com/bast0006/cj9-generous-giants/pull/5) in [bast0006/cj9-generous-giants](https://github.com/bast0006/cj9-generous-giants)
-2. ⬆️ Pushed 1 commit(s) to [bast0006/cj9-generous-giants](https://github.com/bast0006/cj9-generous-giants)
-3. 💪 Opened PR [#4](https://github.com/bast0006/cj9-generous-giants/pull/4) in [bast0006/cj9-generous-giants](https://github.com/bast0006/cj9-generous-giants)
-4. 💬 Commented on [#10](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/10#issuecomment-1200336675) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-5. 💬 Commented on [#10](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/10#issuecomment-1200327120) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+1. ⬆️ Pushed 1 commit(s) to [bast0006/cj9-generous-giants](https://github.com/bast0006/cj9-generous-giants)
+2. 💪 Opened PR [#5](https://github.com/bast0006/cj9-generous-giants/pull/5) in [bast0006/cj9-generous-giants](https://github.com/bast0006/cj9-generous-giants)
+3. ⬆️ Pushed 1 commit(s) to [bast0006/cj9-generous-giants](https://github.com/bast0006/cj9-generous-giants)
+4. 💪 Opened PR [#4](https://github.com/bast0006/cj9-generous-giants/pull/4) in [bast0006/cj9-generous-giants](https://github.com/bast0006/cj9-generous-giants)
+5. 💬 Commented on [#10](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/10#issuecomment-1200336675) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
