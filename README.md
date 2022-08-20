@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#6](https://github.com/KillerBOSS2019/Windows-Mover/issues/6#issuecomment-1219090741) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
-2. 💪 Opened PR [#18](https://github.com/KillerBOSS2019/WinTools/pull/18) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-4. 💬 Commented on [#5](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/5#issuecomment-1207113751) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
-5. ⬆️ Pushed 1 commit(s) to [bast0006/cj9-generous-giants](https://github.com/bast0006/cj9-generous-giants)
+1. ✔️ Closed issue [#6](https://github.com/KillerBOSS2019/Windows-Mover/issues/6) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
+2. 💬 Commented on [#6](https://github.com/KillerBOSS2019/Windows-Mover/issues/6#issuecomment-1219090741) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
+3. 💪 Opened PR [#18](https://github.com/KillerBOSS2019/WinTools/pull/18) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+5. 💬 Commented on [#5](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/5#issuecomment-1207113751) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
