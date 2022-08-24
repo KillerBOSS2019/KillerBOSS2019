@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#9](https://github.com/KillerBOSS2019/TP-Steam-Friend-Plugin/issues/9#issuecomment-1225060189) in [KillerBOSS2019/TP-Steam-Friend-Plugin](https://github.com/KillerBOSS2019/TP-Steam-Friend-Plugin)
-2. 💬 Commented on [#19](https://github.com/KillerBOSS2019/WinTools/issues/19#issuecomment-1223611628) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-3. 💬 Commented on [#12](https://github.com/KillerBOSS2019/WinTools/issues/12#issuecomment-1223607678) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-4. ✔️ Closed issue [#6](https://github.com/KillerBOSS2019/Windows-Mover/issues/6) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
-5. 💬 Commented on [#6](https://github.com/KillerBOSS2019/Windows-Mover/issues/6#issuecomment-1219090741) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
+1. ✔️ Closed issue [#6](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/6) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+2. 💬 Commented on [#6](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/6#issuecomment-1226065923) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+3. 💬 Commented on [#9](https://github.com/KillerBOSS2019/TP-Steam-Friend-Plugin/issues/9#issuecomment-1225060189) in [KillerBOSS2019/TP-Steam-Friend-Plugin](https://github.com/KillerBOSS2019/TP-Steam-Friend-Plugin)
+4. 💬 Commented on [#19](https://github.com/KillerBOSS2019/WinTools/issues/19#issuecomment-1223611628) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+5. 💬 Commented on [#12](https://github.com/KillerBOSS2019/WinTools/issues/12#issuecomment-1223607678) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
