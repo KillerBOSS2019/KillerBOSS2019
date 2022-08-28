@@ -27,10 +27,10 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [tppbuild fix](https://github.com/KillerBOSS2019/TouchPortal-API/releases/tag/1.7.8) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+1. ✌️ Released [tppbuild `ADDITIONAL_TPPSDK_ARGS` typo](https://github.com/KillerBOSS2019/TouchPortal-API/releases/tag/1.7.9) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
 2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-3. ✌️ Released [Test github action automatic building process](https://github.com/KillerBOSS2019/TouchPortal-Python-Template/releases/tag/1.0) in [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
-4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
+3. ✌️ Released [tppbuild fix](https://github.com/KillerBOSS2019/TouchPortal-API/releases/tag/1.7.8) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
 5. ✌️ Released [Test github action automatic building process](https://github.com/KillerBOSS2019/TouchPortal-Python-Template/releases/tag/1.0) in [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
 <!--RECENT_ACTIVITY:end-->
 
