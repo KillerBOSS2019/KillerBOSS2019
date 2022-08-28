@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Test github action automatic building process](https://github.com/KillerBOSS2019/TouchPortal-Python-Template/releases/tag/1.0) in [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
-2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
+1. ✌️ Released [tppbuild fix](https://github.com/KillerBOSS2019/TouchPortal-API/releases/tag/1.7.8) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
 3. ✌️ Released [Test github action automatic building process](https://github.com/KillerBOSS2019/TouchPortal-Python-Template/releases/tag/1.0) in [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
 4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
-5. ✌️ Released [1.0](https://github.com/KillerBOSS2019/TouchPortal-Python-Template/releases/tag/1.0) in [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
+5. ✌️ Released [Test github action automatic building process](https://github.com/KillerBOSS2019/TouchPortal-Python-Template/releases/tag/1.0) in [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
