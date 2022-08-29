@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [tppbuild `ADDITIONAL_TPPSDK_ARGS` typo](https://github.com/KillerBOSS2019/TouchPortal-API/releases/tag/1.7.9) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-3. ✌️ Released [tppbuild fix](https://github.com/KillerBOSS2019/TouchPortal-API/releases/tag/1.7.8) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-5. ✌️ Released [Test github action automatic building process](https://github.com/KillerBOSS2019/TouchPortal-Python-Template/releases/tag/1.0) in [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
+1. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1230806596) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+2. ✌️ Released [tppbuild `ADDITIONAL_TPPSDK_ARGS` typo](https://github.com/KillerBOSS2019/TouchPortal-API/releases/tag/1.7.9) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+4. ✌️ Released [tppbuild fix](https://github.com/KillerBOSS2019/TouchPortal-API/releases/tag/1.7.8) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
