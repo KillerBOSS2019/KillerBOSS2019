@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1230806596) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
-2. ✌️ Released [tppbuild `ADDITIONAL_TPPSDK_ARGS` typo](https://github.com/KillerBOSS2019/TouchPortal-API/releases/tag/1.7.9) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-4. ✌️ Released [tppbuild fix](https://github.com/KillerBOSS2019/TouchPortal-API/releases/tag/1.7.8) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+1. 💬 Commented on [#47](https://github.com/KillerBOSS2019/WinTools/issues/47#issuecomment-1232417582) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+2. ❗️ Opened issue [#48](https://github.com/KillerBOSS2019/WinTools/issues/48) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+3. ❗️ Opened issue [#47](https://github.com/KillerBOSS2019/WinTools/issues/47) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+4. ❗️ Opened issue [#46](https://github.com/KillerBOSS2019/WinTools/issues/46) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+5. ❗️ Opened issue [#45](https://github.com/KillerBOSS2019/WinTools/issues/45) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
