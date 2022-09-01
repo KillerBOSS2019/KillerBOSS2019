@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#49](https://github.com/KillerBOSS2019/WinTools/issues/49) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-2. ✔️ Closed issue [#42](https://github.com/KillerBOSS2019/WinTools/issues/42) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-3. 💬 Commented on [#42](https://github.com/KillerBOSS2019/WinTools/issues/42#issuecomment-1233954950) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-4. ✔️ Closed issue [#43](https://github.com/KillerBOSS2019/WinTools/issues/43) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-5. 💬 Commented on [#43](https://github.com/KillerBOSS2019/WinTools/issues/43#issuecomment-1233954261) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+1. ✔️ Closed issue [#46](https://github.com/KillerBOSS2019/WinTools/issues/46) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+2. 💬 Commented on [#46](https://github.com/KillerBOSS2019/WinTools/issues/46#issuecomment-1233984408) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+3. ✔️ Closed issue [#47](https://github.com/KillerBOSS2019/WinTools/issues/47) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+4. ✔️ Closed issue [#51](https://github.com/KillerBOSS2019/WinTools/issues/51) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+5. ✔️ Closed issue [#52](https://github.com/KillerBOSS2019/WinTools/issues/52) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
