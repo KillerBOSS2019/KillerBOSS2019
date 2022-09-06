@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-2. ⬆️ Pushed 2 commit(s) to [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-3. 💬 Commented on [#50](https://github.com/KillerBOSS2019/WinTools/issues/50#issuecomment-1236005305) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-4. 💬 Commented on [#50](https://github.com/KillerBOSS2019/WinTools/issues/50#issuecomment-1235974751) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-5. ✔️ Closed issue [#46](https://github.com/KillerBOSS2019/WinTools/issues/46) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+1. ✌️ Released [Test cross platform compile](https://github.com/KillerBOSS2019/WinTools/releases/tag/v3.0.0) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+3. ✌️ Released [Test cross platform compile](https://github.com/KillerBOSS2019/WinTools/releases/tag/v3.0.0) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+4. ✌️ Released [Test cross platform compile](https://github.com/KillerBOSS2019/WinTools/releases/tag/v3.0.0) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+5. ✌️ Released [Test cross platform compile](https://github.com/KillerBOSS2019/WinTools/releases/tag/v3.0.0) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
