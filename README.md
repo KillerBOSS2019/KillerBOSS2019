@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
-2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
-4. 💬 Commented on [#7](https://github.com/KillerBOSS2019/SoundcoreDesktop/pull/7#issuecomment-1249967104) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
-5. 💬 Commented on [#7](https://github.com/KillerBOSS2019/SoundcoreDesktop/pull/7#issuecomment-1249659437) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+1. 💬 Commented on [#4](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP/issues/4#issuecomment-1257091528) in [KillerBOSS2019/Foobar2000-Plugin-for-TP](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP)
+2. 💬 Commented on [#4](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP/issues/4#issuecomment-1257091511) in [KillerBOSS2019/Foobar2000-Plugin-for-TP](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP)
+3. 💬 Commented on [#3](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP/issues/3#issuecomment-1257091430) in [KillerBOSS2019/Foobar2000-Plugin-for-TP](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP)
+4. 💬 Commented on [#3](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP/issues/3#issuecomment-1257091417) in [KillerBOSS2019/Foobar2000-Plugin-for-TP](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
