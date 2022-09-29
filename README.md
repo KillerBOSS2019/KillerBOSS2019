@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/8#issuecomment-1258641923) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
-2. 💬 Commented on [#4](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP/issues/4#issuecomment-1257091528) in [KillerBOSS2019/Foobar2000-Plugin-for-TP](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP)
-3. 💬 Commented on [#4](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP/issues/4#issuecomment-1257091511) in [KillerBOSS2019/Foobar2000-Plugin-for-TP](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP)
-4. 💬 Commented on [#3](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP/issues/3#issuecomment-1257091430) in [KillerBOSS2019/Foobar2000-Plugin-for-TP](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP)
-5. 💬 Commented on [#3](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP/issues/3#issuecomment-1257091417) in [KillerBOSS2019/Foobar2000-Plugin-for-TP](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP)
+1. ✔️ Closed issue [#8](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/8) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+2. 💬 Commented on [#8](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/8#issuecomment-1258641923) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+3. 💬 Commented on [#4](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP/issues/4#issuecomment-1257091528) in [KillerBOSS2019/Foobar2000-Plugin-for-TP](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP)
+4. 💬 Commented on [#4](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP/issues/4#issuecomment-1257091511) in [KillerBOSS2019/Foobar2000-Plugin-for-TP](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP)
+5. 💬 Commented on [#3](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP/issues/3#issuecomment-1257091430) in [KillerBOSS2019/Foobar2000-Plugin-for-TP](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
