@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1275500619) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
-2. 💬 Commented on [#1](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/1#issuecomment-1272457496) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-3. 💬 Commented on [#9](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/9#issuecomment-1272457184) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
-4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/touchportal-node-api](https://github.com/KillerBOSS2019/touchportal-node-api)
-5. 💪 Opened PR [#26](https://github.com/spdermn02/touchportal-node-api/pull/26) in [spdermn02/touchportal-node-api](https://github.com/spdermn02/touchportal-node-api)
+1. ✌️ Released [CPU leaks and parent group](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/releases/tag/2.0.2) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+2. ⬆️ Pushed 9 commit(s) to [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+3. 🎉 Merged PR [#6](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/pull/6) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+4. 💬 Commented on [#6](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/pull/6#issuecomment-1301567816) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+5. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1275500619) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
