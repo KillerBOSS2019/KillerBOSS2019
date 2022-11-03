@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [CPU leaks and parent group](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/releases/tag/2.0.2) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
-2. ⬆️ Pushed 9 commit(s) to [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
-3. 🎉 Merged PR [#6](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/pull/6) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
-4. 💬 Commented on [#6](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/pull/6#issuecomment-1301567816) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
-5. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1275500619) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+1. ✌️ Released [Little typo fix for previous release ](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/releases/tag/2.0.3) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+3. ✌️ Released [CPU leaks and parent group](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/releases/tag/2.0.2) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+4. ⬆️ Pushed 9 commit(s) to [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+5. 🎉 Merged PR [#6](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/pull/6) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
