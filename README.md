@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Fixed typo for previous release ](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/releases/tag/2.0.3) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
-2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+1. ⭐ Starred [spdermn02/TouchPortal-HardwareMonitor](https://github.com/spdermn02/TouchPortal-HardwareMonitor)
+2. ✌️ Released [Fixed typo for previous release ](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/releases/tag/2.0.3) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
 3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
 4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
-5. ✌️ Released [Little typo fix for previous release ](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/releases/tag/2.0.3) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
