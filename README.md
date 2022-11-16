@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
-2. 🎉 Merged PR [#1](https://github.com/KillerBOSS2019/TP-DataParser/pull/1) in [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
-3. ⭐ Starred [spdermn02/TouchPortal-HardwareMonitor](https://github.com/spdermn02/TouchPortal-HardwareMonitor)
-4. ✌️ Released [Fixed typo for previous release ](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/releases/tag/2.0.3) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
-5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+1. ⭐ Starred [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
+2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
+3. ⬆️ Pushed 4 commit(s) to [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
+4. 🎉 Merged PR [#1](https://github.com/KillerBOSS2019/TP-DataParser/pull/1) in [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
+5. ⭐ Starred [spdermn02/TouchPortal-HardwareMonitor](https://github.com/spdermn02/TouchPortal-HardwareMonitor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
