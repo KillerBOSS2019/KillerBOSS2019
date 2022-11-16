@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
-2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
-3. ⬆️ Pushed 4 commit(s) to [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
-4. 🎉 Merged PR [#1](https://github.com/KillerBOSS2019/TP-DataParser/pull/1) in [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
-5. ⭐ Starred [spdermn02/TouchPortal-HardwareMonitor](https://github.com/spdermn02/TouchPortal-HardwareMonitor)
+1. 🤝 Became collaborator on [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
+2. ⭐ Starred [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
+3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
+4. ⬆️ Pushed 4 commit(s) to [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
+5. 🎉 Merged PR [#1](https://github.com/KillerBOSS2019/TP-DataParser/pull/1) in [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
