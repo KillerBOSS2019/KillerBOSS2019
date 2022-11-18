@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
-2. ⭐ Starred [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
+1. ✌️ Released [Test 1C](https://github.com/KillerBOSS2019/TP-DataParser/releases/tag/v001C) in [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
+2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
 3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
-4. ⬆️ Pushed 4 commit(s) to [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
-5. 🎉 Merged PR [#1](https://github.com/KillerBOSS2019/TP-DataParser/pull/1) in [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
+4. 🤝 Became collaborator on [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
+5. ⭐ Starred [KillerBOSS2019/TouchPortal-Python-Template](https://github.com/KillerBOSS2019/TouchPortal-Python-Template)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
