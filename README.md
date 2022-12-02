@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/issues/7#issuecomment-1320788027) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
-2. ✌️ Released [Test 1C](https://github.com/KillerBOSS2019/TP-DataParser/releases/tag/v001C) in [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
+1. 💬 Commented on [#27](https://github.com/KillerBOSS2019/TouchPortal-API/issues/27#issuecomment-1335818173) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+2. 💬 Commented on [#7](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin/issues/7#issuecomment-1320788027) in [KillerBOSS2019/TP-Speed-Test-Plugin](https://github.com/KillerBOSS2019/TP-Speed-Test-Plugin)
+3. ✌️ Released [Test 1C](https://github.com/KillerBOSS2019/TP-DataParser/releases/tag/v001C) in [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
 4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
-5. 🤝 Became collaborator on [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
