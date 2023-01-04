@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/KillerBOSS2019/ytmdesktop/pull/1) in [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
-2. 💪 Opened PR [#1](https://github.com/KillerBOSS2019/ytmdesktop/pull/1) in [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
-3. ⬆️ Pushed 13 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
-4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
-5. 💬 Commented on [#27](https://github.com/KillerBOSS2019/TouchPortal-API/issues/27#issuecomment-1335818173) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+1. 💬 Commented on [#845](https://github.com/ytmdesktop/ytmdesktop/pull/845#issuecomment-1370372915) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
+2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
+3. ⬆️ Pushed 3 commit(s) to [KillerBOSS2019/TouchPortal-OctoPrint](https://github.com/KillerBOSS2019/TouchPortal-OctoPrint)
+4. 🎉 Merged PR [#1](https://github.com/KillerBOSS2019/TouchPortal-OctoPrint/pull/1) in [KillerBOSS2019/TouchPortal-OctoPrint](https://github.com/KillerBOSS2019/TouchPortal-OctoPrint)
+5. 💬 Commented on [#1](https://github.com/KillerBOSS2019/TouchPortal-OctoPrint/pull/1#issuecomment-1370369960) in [KillerBOSS2019/TouchPortal-OctoPrint](https://github.com/KillerBOSS2019/TouchPortal-OctoPrint)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
