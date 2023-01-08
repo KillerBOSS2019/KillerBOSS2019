@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/3#issuecomment-1374679290) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-2. 💬 Commented on [#845](https://github.com/ytmdesktop/ytmdesktop/pull/845#issuecomment-1370372915) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
-4. ⬆️ Pushed 3 commit(s) to [KillerBOSS2019/TouchPortal-OctoPrint](https://github.com/KillerBOSS2019/TouchPortal-OctoPrint)
-5. 🎉 Merged PR [#1](https://github.com/KillerBOSS2019/TouchPortal-OctoPrint/pull/1) in [KillerBOSS2019/TouchPortal-OctoPrint](https://github.com/KillerBOSS2019/TouchPortal-OctoPrint)
+1. 💬 Commented on [#3](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/3#issuecomment-1374684813) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+2. 💬 Commented on [#3](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/3#issuecomment-1374679290) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+3. 💬 Commented on [#845](https://github.com/ytmdesktop/ytmdesktop/pull/845#issuecomment-1370372915) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
+4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
+5. ⬆️ Pushed 3 commit(s) to [KillerBOSS2019/TouchPortal-OctoPrint](https://github.com/KillerBOSS2019/TouchPortal-OctoPrint)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
