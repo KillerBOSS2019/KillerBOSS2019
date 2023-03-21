@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.14.1](https://github.com/KillerBOSS2019/ytmdesktop/releases/tag/v1.14.1) in [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
-2. ✌️ Released [](https://github.com/KillerBOSS2019/ytmdesktop/releases/tag/v1.14.1) in [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
-3. ⬆️ Pushed 15 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
-4. 💬 Commented on [#2](https://github.com/KillerBOSS2019/TP-DataParser/issues/2#issuecomment-1445506006) in [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
-5. ⭐ Starred [Klipper3d/klipper](https://github.com/Klipper3d/klipper)
+1. ✌️ Released [Bug fixes and new actions!](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/releases/tag/2.2.0) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+3. ❌ Closed PR [#28](https://github.com/KillerBOSS2019/TouchPortal-API/pull/28) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+4. ❌ Closed PR [#26](https://github.com/KillerBOSS2019/TouchPortal-API/pull/26) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+5. ✌️ Released [v1.14.1](https://github.com/KillerBOSS2019/ytmdesktop/releases/tag/v1.14.1) in [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
