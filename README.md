@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Bug fixes and new actions!](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/releases/tag/2.2.0) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-3. ❌ Closed PR [#28](https://github.com/KillerBOSS2019/TouchPortal-API/pull/28) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-4. ❌ Closed PR [#26](https://github.com/KillerBOSS2019/TouchPortal-API/pull/26) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-5. ✌️ Released [v1.14.1](https://github.com/KillerBOSS2019/ytmdesktop/releases/tag/v1.14.1) in [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
+1. ✌️ Released [getPlaylist returns empty list due to YT update the path](https://github.com/KillerBOSS2019/ytmdesktop/releases/tag/v1.14.3) in [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
+2. ✌️ Released [`query/playlist` is empty due to YTMD updated the path id.](https://github.com/KillerBOSS2019/ytmdesktop/releases/tag/v1.14.3) in [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
+3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
+4. ✌️ Released [Bug fixes and new actions!](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/releases/tag/2.2.0) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
