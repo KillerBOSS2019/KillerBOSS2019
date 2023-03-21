@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 15 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
-2. 💬 Commented on [#2](https://github.com/KillerBOSS2019/TP-DataParser/issues/2#issuecomment-1445506006) in [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
-3. ⭐ Starred [Klipper3d/klipper](https://github.com/Klipper3d/klipper)
-4. 💬 Commented on [#57](https://github.com/KillerBOSS2019/WinTools/issues/57#issuecomment-1433379718) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-5. 💬 Commented on [#845](https://github.com/ytmdesktop/ytmdesktop/pull/845#issuecomment-1430601718) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
+1. ✌️ Released [v1.14.1](https://github.com/KillerBOSS2019/ytmdesktop/releases/tag/v1.14.1) in [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
+2. ✌️ Released [](https://github.com/KillerBOSS2019/ytmdesktop/releases/tag/v1.14.1) in [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
+3. ⬆️ Pushed 15 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
+4. 💬 Commented on [#2](https://github.com/KillerBOSS2019/TP-DataParser/issues/2#issuecomment-1445506006) in [KillerBOSS2019/TP-DataParser](https://github.com/KillerBOSS2019/TP-DataParser)
+5. ⭐ Starred [Klipper3d/klipper](https://github.com/Klipper3d/klipper)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
