@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
-2. 🎉 Merged PR [#5](https://github.com/KillerBOSS2019/Windows-Mover/pull/5) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
-3. ❌ Closed PR [#5](https://github.com/KillerBOSS2019/Windows-Mover/pull/5) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
-4. 💬 Commented on [#14](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/14#issuecomment-1483915541) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-5. 💬 Commented on [#58](https://github.com/KillerBOSS2019/WinTools/issues/58#issuecomment-1477415688) in [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+1. 💬 Commented on [#64](https://github.com/AndreMiras/pycaw/issues/64#issuecomment-1499629950) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+2. ✔️ Closed issue [#68](https://github.com/AndreMiras/pycaw/issues/68) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+3. 💬 Commented on [#68](https://github.com/AndreMiras/pycaw/issues/68#issuecomment-1499622095) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+4. ✔️ Closed issue [#67](https://github.com/AndreMiras/pycaw/issues/67) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+5. 💬 Commented on [#67](https://github.com/AndreMiras/pycaw/issues/67#issuecomment-1499621170) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
