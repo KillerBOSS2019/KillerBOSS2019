@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#64](https://github.com/AndreMiras/pycaw/issues/64#issuecomment-1499629950) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
-2. ✔️ Closed issue [#68](https://github.com/AndreMiras/pycaw/issues/68) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
-3. 💬 Commented on [#68](https://github.com/AndreMiras/pycaw/issues/68#issuecomment-1499622095) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
-4. ✔️ Closed issue [#67](https://github.com/AndreMiras/pycaw/issues/67) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
-5. 💬 Commented on [#67](https://github.com/AndreMiras/pycaw/issues/67#issuecomment-1499621170) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+1. 💪 Opened PR [#72](https://github.com/AndreMiras/pycaw/pull/72) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/pycaw](https://github.com/KillerBOSS2019/pycaw)
+3. 🔱 Forked [KillerBOSS2019/pycaw](https://github.com/KillerBOSS2019/pycaw) from [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+4. 💬 Commented on [#64](https://github.com/AndreMiras/pycaw/issues/64#issuecomment-1499629950) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+5. ✔️ Closed issue [#68](https://github.com/AndreMiras/pycaw/issues/68) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
