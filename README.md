@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#64](https://github.com/AndreMiras/pycaw/issues/64#issuecomment-1500641521) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
-2. 💬 Commented on [#72](https://github.com/AndreMiras/pycaw/pull/72#issuecomment-1500523672) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/pycaw](https://github.com/KillerBOSS2019/pycaw)
-4. ⬆️ Pushed 2 commit(s) to [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-5. 💪 Opened PR [#72](https://github.com/AndreMiras/pycaw/pull/72) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+1. 💬 Commented on [#52](https://github.com/AndreMiras/pycaw/issues/52#issuecomment-1500722355) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+2. 💬 Commented on [#69](https://github.com/AndreMiras/pycaw/issues/69#issuecomment-1500720692) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+3. 💬 Commented on [#69](https://github.com/AndreMiras/pycaw/issues/69#issuecomment-1500719974) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+4. 💬 Commented on [#64](https://github.com/AndreMiras/pycaw/issues/64#issuecomment-1500641521) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+5. 💬 Commented on [#72](https://github.com/AndreMiras/pycaw/pull/72#issuecomment-1500523672) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
