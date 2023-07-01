@@ -29,10 +29,10 @@
     
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-2. 💬 Commented on [#68](https://github.com/AndreMiras/pycaw/issues/68#issuecomment-1608779190) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
-3. ⬆️ Pushed 2 commit(s) to [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-4. 🎉 Merged PR [#4](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/pull/4) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-5. ✌️ Released [Individual app audio routing & added show default device back,](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/releases/tag/2.0.0) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
+3. 💬 Commented on [#68](https://github.com/AndreMiras/pycaw/issues/68#issuecomment-1608779190) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+4. ⬆️ Pushed 2 commit(s) to [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+5. 🎉 Merged PR [#4](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/pull/4) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
