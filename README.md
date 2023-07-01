@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-2. 💬 Commented on [#26](https://github.com/spdermn02/touchportal-node-api/pull/26#issuecomment-1615552728) in [spdermn02/touchportal-node-api](https://github.com/spdermn02/touchportal-node-api)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/WinTools](https://github.com/KillerBOSS2019/WinTools)
-5. 💬 Commented on [#68](https://github.com/AndreMiras/pycaw/issues/68#issuecomment-1608779190) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+1. ✌️ Released [1.3.1](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/releases/tag/1.3.1) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+2. 💬 Commented on [#1](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/1#issuecomment-1616053502) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+3. 💬 Commented on [#1](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/1#issuecomment-1616053136) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+4. ✔️ Closed issue [#1](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/1) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
