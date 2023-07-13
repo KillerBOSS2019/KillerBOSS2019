@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/AnimazePy](https://github.com/KillerBOSS2019/AnimazePy)
-2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/AnimazePy](https://github.com/KillerBOSS2019/AnimazePy)
-3. 💪 Opened PR [#1](https://github.com/gitagogaming/AnimazePy/pull/1) in [gitagogaming/AnimazePy](https://github.com/gitagogaming/AnimazePy)
+1. 💬 Commented on [#26](https://github.com/spdermn02/touchportal-node-api/pull/26#discussion_r1263053008) in [spdermn02/touchportal-node-api](https://github.com/spdermn02/touchportal-node-api)
+2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/touchportal-node-api](https://github.com/KillerBOSS2019/touchportal-node-api)
+3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/AnimazePy](https://github.com/KillerBOSS2019/AnimazePy)
 4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/AnimazePy](https://github.com/KillerBOSS2019/AnimazePy)
-5. 🔱 Forked [KillerBOSS2019/AnimazePy](https://github.com/KillerBOSS2019/AnimazePy) from [gitagogaming/AnimazePy](https://github.com/gitagogaming/AnimazePy)
+5. 💪 Opened PR [#1](https://github.com/gitagogaming/AnimazePy/pull/1) in [gitagogaming/AnimazePy](https://github.com/gitagogaming/AnimazePy)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
