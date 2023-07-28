@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1656134793) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-2. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1656116122) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-3. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1656092563) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-4. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1655978945) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-5. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1655977666) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+1. ✔️ Closed issue [#1](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/1) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+2. ✔️ Closed issue [#2](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/2) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+3. 💬 Commented on [#15](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/15#issuecomment-1656211624) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
+5. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1656204923) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
