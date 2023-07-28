@@ -28,11 +28,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1654809064) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-2. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1654764302) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
-4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
-5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+1. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1654863359) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+2. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1654863252) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+3. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1654860470) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+4. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1654831427) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+5. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1654809064) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
