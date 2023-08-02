@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/1) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-2. ✔️ Closed issue [#2](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/2) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-3. 💬 Commented on [#15](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/15#issuecomment-1656211624) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/KillerBOSS2019](https://github.com/KillerBOSS2019/KillerBOSS2019)
-5. 💬 Commented on [#17](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/17#issuecomment-1656204923) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+1. ✌️ Released [More Premade preset and bunch bug fixes](https://github.com/KillerBOSS2019/Windows-Mover/releases/tag/3.1.0) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
+2. ⬆️ Pushed 2 commit(s) to [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
+3. 🎉 Merged PR [#8](https://github.com/KillerBOSS2019/Windows-Mover/pull/8) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
+4. 💪 Opened PR [#8](https://github.com/KillerBOSS2019/Windows-Mover/pull/8) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
