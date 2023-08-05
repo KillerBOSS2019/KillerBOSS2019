@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#4](https://github.com/KillerBOSS2019/Windows-Mover/issues/4) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
-2. ✌️ Released [More Premade preset and bunch bug fixes](https://github.com/KillerBOSS2019/Windows-Mover/releases/tag/3.1.0) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
-3. ⬆️ Pushed 2 commit(s) to [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
-4. 🎉 Merged PR [#8](https://github.com/KillerBOSS2019/Windows-Mover/pull/8) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
-5. 💪 Opened PR [#8](https://github.com/KillerBOSS2019/Windows-Mover/pull/8) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
+1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+4. ✔️ Closed issue [#4](https://github.com/KillerBOSS2019/Windows-Mover/issues/4) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
+5. ✌️ Released [More Premade preset and bunch bug fixes](https://github.com/KillerBOSS2019/Windows-Mover/releases/tag/3.1.0) in [KillerBOSS2019/Windows-Mover](https://github.com/KillerBOSS2019/Windows-Mover)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
