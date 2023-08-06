@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.5.0](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/releases/tag/1.5.0) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
 3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
-4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
-5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+4. ✌️ Released [1.5.0](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/releases/tag/1.5.0) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
