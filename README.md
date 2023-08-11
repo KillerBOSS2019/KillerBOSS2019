@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
-2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/touchportal-node-api](https://github.com/KillerBOSS2019/touchportal-node-api)
+2. 💬 Commented on [#26](https://github.com/spdermn02/touchportal-node-api/pull/26#discussion_r1291596780) in [spdermn02/touchportal-node-api](https://github.com/spdermn02/touchportal-node-api)
 3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
 4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
-5. ⬆️ Pushed 2 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
