@@ -29,9 +29,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
 2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-3. 💪 Opened PR [#32](https://github.com/KillerBOSS2019/TouchPortal-API/pull/32) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-4. ⬆️ Pushed 2 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-5. ⭐ Starred [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+4. 💪 Opened PR [#32](https://github.com/KillerBOSS2019/TouchPortal-API/pull/32) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+5. ⬆️ Pushed 2 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
