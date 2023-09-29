@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
-2. ✌️ Released [1.1.9 - fix slug and username is different](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal/releases/tag/1.1.9) in [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
-4. ✔️ Closed issue [#2](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP/issues/2) in [KillerBOSS2019/Foobar2000-Plugin-for-TP](https://github.com/KillerBOSS2019/Foobar2000-Plugin-for-TP)
-5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+2. 💪 Opened PR [#32](https://github.com/KillerBOSS2019/TouchPortal-API/pull/32) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+3. ⬆️ Pushed 2 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+4. ⭐ Starred [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+5. ✌️ Released [1.1.9 - fix slug and username is different](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal/releases/tag/1.1.9) in [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
