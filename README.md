@@ -27,10 +27,10 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.1.9-bug-1](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal/releases/tag/1.1.9-bug-1) in [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+1. ✌️ Released [1.1.9-bugfixed](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal/releases/tag/1.1.9-bugfixed) in [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
 2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
-4. ✌️ Released [1.1.9-fix-1](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal/releases/tag/1.1.9-fix-1) in [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+3. ⬆️ Pushed 2 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+4. ✌️ Released [1.1.9-bug-1](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal/releases/tag/1.1.9-bug-1) in [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
 5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
 <!--RECENT_ACTIVITY:end-->
 
