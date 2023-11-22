@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1781563939) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
-2. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1781562702) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
-3. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1781036111) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
-4. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1780162225) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
-5. ✌️ Released [1.1.9-bugfixed](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal/releases/tag/1.1.9-bugfixed) in [KillerBOSS2019/Kick-Streaming-TouchPortal](https://github.com/KillerBOSS2019/Kick-Streaming-TouchPortal)
+1. 💬 Commented on [#49](https://github.com/AndreMiras/pycaw/issues/49#issuecomment-1823403959) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+2. 💬 Commented on [#49](https://github.com/AndreMiras/pycaw/issues/49#issuecomment-1823402410) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+3. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1781563939) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+4. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1781562702) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+5. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1781036111) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
