@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#49](https://github.com/AndreMiras/pycaw/issues/49#issuecomment-1824923751) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
-2. 💬 Commented on [#49](https://github.com/AndreMiras/pycaw/issues/49#issuecomment-1824923084) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
-3. 💬 Commented on [#49](https://github.com/AndreMiras/pycaw/issues/49#issuecomment-1823403959) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
-4. 💬 Commented on [#49](https://github.com/AndreMiras/pycaw/issues/49#issuecomment-1823402410) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
-5. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1781563939) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+1. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
+2. 💪 Opened PR [#1228](https://github.com/ytmdesktop/ytmdesktop/pull/1228) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
+3. 💬 Commented on [#49](https://github.com/AndreMiras/pycaw/issues/49#issuecomment-1824923751) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+4. 💬 Commented on [#49](https://github.com/AndreMiras/pycaw/issues/49#issuecomment-1824923084) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
+5. 💬 Commented on [#49](https://github.com/AndreMiras/pycaw/issues/49#issuecomment-1823403959) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
