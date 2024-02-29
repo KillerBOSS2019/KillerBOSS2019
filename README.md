@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#6](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/6) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-2. 💬 Commented on [#6](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/6#issuecomment-1951390730) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-3. 💬 Commented on [#6](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/6#issuecomment-1951390717) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-4. ❌ Closed PR [#5](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/pull/5) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-5. 💬 Commented on [#5](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/pull/5#issuecomment-1951390567) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+1. 💬 Commented on [#19](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/19#issuecomment-1971458779) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+2. ✔️ Closed issue [#6](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/6) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+3. 💬 Commented on [#6](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/6#issuecomment-1951390730) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+4. 💬 Commented on [#6](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/6#issuecomment-1951390717) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+5. ❌ Closed PR [#5](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/pull/5) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
