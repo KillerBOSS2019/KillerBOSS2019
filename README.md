@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#32](https://github.com/KillerBOSS2019/TouchPortal-API/pull/32#issuecomment-1978921047) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-2. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1978919787) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
-3. 💬 Commented on [#19](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/19#issuecomment-1971458779) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-4. ✔️ Closed issue [#6](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/6) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-5. 💬 Commented on [#6](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/6#issuecomment-1951390730) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+1. 💬 Commented on [#10](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/10#issuecomment-2016634603) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+2. 💬 Commented on [#32](https://github.com/KillerBOSS2019/TouchPortal-API/pull/32#issuecomment-1978921047) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+3. 💬 Commented on [#4](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/4#issuecomment-1978919787) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+4. 💬 Commented on [#19](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/19#issuecomment-1971458779) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+5. ✔️ Closed issue [#6](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/issues/6) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
