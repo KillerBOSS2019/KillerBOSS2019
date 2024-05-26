@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#19](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/19#issuecomment-2108113798) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
-2. 💬 Commented on [#1228](https://github.com/ytmdesktop/ytmdesktop/pull/1228#discussion_r1594954224) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
-4. ⬆️ Pushed 41 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
-5. 💬 Commented on [#14](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/14#issuecomment-2093512300) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+1. 💬 Commented on [#1228](https://github.com/ytmdesktop/ytmdesktop/pull/1228#issuecomment-2132291403) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
+2. 💬 Commented on [#19](https://github.com/KillerBOSS2019/TP-YTDM-Plugin/issues/19#issuecomment-2108113798) in [KillerBOSS2019/TP-YTDM-Plugin](https://github.com/KillerBOSS2019/TP-YTDM-Plugin)
+3. 💬 Commented on [#1228](https://github.com/ytmdesktop/ytmdesktop/pull/1228#discussion_r1594954224) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
+4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
+5. ⬆️ Pushed 41 commit(s) to [KillerBOSS2019/ytmdesktop](https://github.com/KillerBOSS2019/ytmdesktop)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
