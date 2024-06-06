@@ -31,7 +31,7 @@
 2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/YTMD_SDK](https://github.com/KillerBOSS2019/YTMD_SDK)
 3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/YTMD_SDK](https://github.com/KillerBOSS2019/YTMD_SDK)
 4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/YTMD_SDK](https://github.com/KillerBOSS2019/YTMD_SDK)
-5. 📔 Created new repository [KillerBOSS2019/YTMD_SDK](https://github.com/KillerBOSS2019/YTMD_SDK)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/YTMD_SDK](https://github.com/KillerBOSS2019/YTMD_SDK)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
