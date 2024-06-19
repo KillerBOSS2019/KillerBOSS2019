@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#16](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/16#issuecomment-2167128751) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
-2. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
-4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/YTMD_SDK](https://github.com/KillerBOSS2019/YTMD_SDK)
-5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/YTMD_SDK](https://github.com/KillerBOSS2019/YTMD_SDK)
+1. ✌️ Released [Initial Console Based Yahtzee game](https://github.com/KillerBOSS2019/Yahzee/releases/tag/1.0.0) in [KillerBOSS2019/Yahzee](https://github.com/KillerBOSS2019/Yahzee)
+2. 📔 Created new repository [KillerBOSS2019/Yahzee](https://github.com/KillerBOSS2019/Yahzee)
+3. 💬 Commented on [#16](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/16#issuecomment-2167128751) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
+5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
