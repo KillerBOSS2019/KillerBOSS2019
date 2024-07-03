@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [KillerBOSS2019/touchportal-node-api](https://github.com/KillerBOSS2019/touchportal-node-api)
-2. ✌️ Released [v1.0.0](https://github.com/KillerBOSS2019/TouchPortal-SimHub/releases/tag/v1.0.0) in [KillerBOSS2019/TouchPortal-SimHub](https://github.com/KillerBOSS2019/TouchPortal-SimHub)
-3. 📔 Created new repository [KillerBOSS2019/TouchPortal-SimHub](https://github.com/KillerBOSS2019/TouchPortal-SimHub)
-4. ✌️ Released [Initial Console Based Yahtzee game](https://github.com/KillerBOSS2019/Yahzee/releases/tag/1.0.0) in [KillerBOSS2019/Yahzee](https://github.com/KillerBOSS2019/Yahzee)
-5. 📔 Created new repository [KillerBOSS2019/Yahzee](https://github.com/KillerBOSS2019/Yahzee)
+1. 💬 Commented on [#18](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/18#issuecomment-2204093316) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+2. 💬 Commented on [#18](https://github.com/KillerBOSS2019/SoundcoreDesktop/issues/18#issuecomment-2204092259) in [KillerBOSS2019/SoundcoreDesktop](https://github.com/KillerBOSS2019/SoundcoreDesktop)
+3. ⬆️ Pushed 2 commit(s) to [KillerBOSS2019/touchportal-node-api](https://github.com/KillerBOSS2019/touchportal-node-api)
+4. ✌️ Released [v1.0.0](https://github.com/KillerBOSS2019/TouchPortal-SimHub/releases/tag/v1.0.0) in [KillerBOSS2019/TouchPortal-SimHub](https://github.com/KillerBOSS2019/TouchPortal-SimHub)
+5. 📔 Created new repository [KillerBOSS2019/TouchPortal-SimHub](https://github.com/KillerBOSS2019/TouchPortal-SimHub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
