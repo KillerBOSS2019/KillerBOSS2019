@@ -27,11 +27,11 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#13](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/pull/13#discussion_r1691829237) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-2. 💬 Commented on [#13](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/pull/13#discussion_r1691576229) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-3. 💬 Commented on [#13](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/pull/13#discussion_r1691566231) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-4. 💬 Commented on [#13](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/pull/13#discussion_r1691562224) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
-5. 💬 Commented on [#13](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/pull/13#discussion_r1691548763) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
+1. ✌️ Released [1.0.0](https://github.com/KillerBOSS2019/YTMD_SDK/releases/tag/1.0.0) in [KillerBOSS2019/YTMD_SDK](https://github.com/KillerBOSS2019/YTMD_SDK)
+2. ✌️ Released [1.0.0](https://github.com/KillerBOSS2019/YTMD_SDK/releases/tag/1.0.0) in [KillerBOSS2019/YTMD_SDK](https://github.com/KillerBOSS2019/YTMD_SDK)
+3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/YTMD_SDK](https://github.com/KillerBOSS2019/YTMD_SDK)
+4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/YTMD_SDK](https://github.com/KillerBOSS2019/YTMD_SDK)
+5. 💬 Commented on [#13](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer/pull/13#discussion_r1691829237) in [KillerBOSS2019/TouchPortal-Windows-MediaMixer](https://github.com/KillerBOSS2019/TouchPortal-Windows-MediaMixer)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
