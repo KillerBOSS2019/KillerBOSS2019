@@ -31,7 +31,6 @@
 2. 💬 Commented on [#68](https://github.com/AndreMiras/pycaw/issues/68#issuecomment-2448341585) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
 3. 💬 Commented on [#68](https://github.com/AndreMiras/pycaw/issues/68#issuecomment-2445632463) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
 4. 📔 Created new repository [KillerBOSS2019/Default-Progress-Bar](https://github.com/KillerBOSS2019/Default-Progress-Bar)
-5. 💬 Commented on [#33](https://github.com/KillerBOSS2019/TouchPortal-API/issues/33#issuecomment-2323406595) in [KillerBOSS2019/TouchPortal-API](https://github.com/KillerBOSS2019/TouchPortal-API)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
