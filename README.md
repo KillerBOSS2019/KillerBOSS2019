@@ -28,9 +28,6 @@
     
 <!--RECENT_ACTIVITY:start-->
 1. ❗️ Opened issue [#20487](https://github.com/JonathanGin52/JonathanGin52/issues/20487) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. 💬 Commented on [#68](https://github.com/AndreMiras/pycaw/issues/68#issuecomment-2448341585) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
-3. 💬 Commented on [#68](https://github.com/AndreMiras/pycaw/issues/68#issuecomment-2445632463) in [AndreMiras/pycaw](https://github.com/AndreMiras/pycaw)
-4. 📔 Created new repository [KillerBOSS2019/Default-Progress-Bar](https://github.com/KillerBOSS2019/Default-Progress-Bar)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
