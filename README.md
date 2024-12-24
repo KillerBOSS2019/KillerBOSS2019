@@ -27,9 +27,9 @@
     <summary> ⚡GitHub Activity </summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1228](https://github.com/ytmdesktop/ytmdesktop/pull/1228#issuecomment-2558855476) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
-2. ❌ Closed PR [#1228](https://github.com/ytmdesktop/ytmdesktop/pull/1228) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
-3. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Enginners-of-PSTCC](https://github.com/KillerBOSS2019/Enginners-of-PSTCC)
+1. ⭐ Starred [shuban-789/bjorn](https://github.com/shuban-789/bjorn)
+2. 💬 Commented on [#1228](https://github.com/ytmdesktop/ytmdesktop/pull/1228#issuecomment-2558855476) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
+3. ❌ Closed PR [#1228](https://github.com/ytmdesktop/ytmdesktop/pull/1228) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
 4. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Enginners-of-PSTCC](https://github.com/KillerBOSS2019/Enginners-of-PSTCC)
 5. ⬆️ Pushed 1 commit(s) to [KillerBOSS2019/Enginners-of-PSTCC](https://github.com/KillerBOSS2019/Enginners-of-PSTCC)
 <!--RECENT_ACTIVITY:end-->
